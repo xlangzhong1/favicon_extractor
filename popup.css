@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+}
+
+#container {
+  text-align: center;
+}
+
+#favicon {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  margin-top: 10px;
+}
